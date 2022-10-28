@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 John Holdsworth. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 
 @interface RMPluginController : NSObject <NSApplicationDelegate>
 @property IBOutlet NSMenuItem *remoteMenu;
